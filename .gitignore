@@ -11,6 +11,6 @@ Thumbs.db
 build/
 .vscode/
 
-# node-modules
+# node_modules
 
-/node-modules/
+/node_modules/
