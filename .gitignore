@@ -1,0 +1,16 @@
+# build work
+*.o
+*.exe
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exclude all './build' direcrory
+build/
+.vscode/
+
+# node-modules
+
+/node-modules/
